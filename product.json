@@ -13,7 +13,7 @@
     "price": 200,
     "sales": 30,
     "category": "category1",
-    "image": "path/to/image2.jpg"
+    "image": "https://singlehorns.github.io/json-project/images/00.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": 150,
     "sales": 20,
     "category": "category2",
-    "image": "path/to/image3.jpg"
+    "image": "https://singlehorns.github.io/json-project/images/00.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 120,
     "sales": 40,
     "category": "category2",
-    "image": "path/to/image4.jpg"
+    "image": "https://singlehorns.github.io/json-project/images/00.png"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "price": 300,
     "sales": 10,
     "category": "category3",
-    "image": "path/to/image5.jpg"
+    "image": "https://singlehorns.github.io/json-project/images/00.png"
   }
 ]
